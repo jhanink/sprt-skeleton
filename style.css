@@ -1,0 +1,98 @@
+body {
+  margin: 20px;
+  padding: 0;
+}
+
+#header {
+  margin-bottom: 20px;
+}
+
+
+#description {
+  height: 400px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+#tokenomics {
+  margin-bottom: 10px;
+}
+
+#roadmap {
+  margin-bottom: 10px;
+}
+
+#whitepaper {
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-1 {
+  flex: 1;
+  padding: 10px;
+  margin: 10px;
+}
+
+.flex-1.logo {
+  background-color: pink;
+}
+.flex-1.menu {
+  background-color: #efefef;
+}
+.flex-1.buy-button {
+  background-color: cyan;
+}
+.flex-1.socials {
+  padding: 0;
+  margin: 0;
+  margin-top: 10px;
+
+}
+
+.flex-1.hero {
+  border-radius: 10px;
+  padding: 0;
+  margin: 0;
+  margin-right: 20px;
+}
+
+.hero-image {
+  background-color: yellowgreen;
+  border-radius: 10px;
+  height: 250px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.description {
+  background-color: lightgray;
+  border-radius: 10px;
+  padding: 10px;
+  height: 100px;
+}
+
+.flex-1.buy {
+  padding: 0px;
+  margin: 0px;
+
+}
+
+
+.flex-1.roadmap {
+
+}
+
+.flex-1.tokenomics {
+
+}
+
+
+.flex-1.whitepaper {
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  padding: 10px;
+}
+
